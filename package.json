@@ -1,0 +1,31 @@
+{
+  "name": "ember-simple-auth-classic",
+  "version": "0.0.0",
+  "description": "An Ember Simple Auth extension to support cookie-based Devise sessions",
+  "main": "dist/cjs/simple-auth-classic.js",
+  "scripts": {
+    "test": "./node_modules/.bin/testem ci"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zeppelin/ember-simple-auth-classic.git"
+  },
+  "keywords": [
+    "ember",
+    "simple-auth",
+    "cookie",
+    "devise"
+  ],
+  "author": "Gabor Babicz <gabor.babicz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zeppelin/ember-simple-auth-classic/issues"
+  },
+  "homepage": "https://github.com/zeppelin/ember-simple-auth-classic",
+  "devDependencies": {
+    "broccoli": "^0.12.3",
+    "broccoli-dist-es6-module": "git+https://github.com/zeppelin/broccoli-dist-es6-module#mattia/use-main-name-for-all-builds",
+    "broccoli-esnext": "^0.3.0",
+    "testem": "^0.6.19"
+  }
+}

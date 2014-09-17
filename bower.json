@@ -1,0 +1,31 @@
+{
+  "name": "ember-simple-auth-classic",
+  "version": "0.0.0",
+  "authors": [
+    "Gabor Babicz <gabor.babicz@gmail.com>"
+  ],
+  "description": "An Ember Simple Auth extension to support cookie-based Devise sessions",
+  "main": "lib/simple-auth-classic.js",
+  "keywords": [
+    "ember",
+    "simple-auth",
+    "cookie",
+    "devise"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ember": ">1.7.0",
+    "ember-simple-auth": "~0.6.6"
+  },
+  "devDependencies": {
+    "sinon": "http://sinonjs.org/releases/sinon-1.7.3.js"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "framework": "qunit",
+  "src_files": [
+    "bower_components/jquery/dist/jquery.js",
+    "bower_components/handlebars/handlebars.js",
+    "bower_components/ember/ember.js",
+    "bower_components/ember-simple-auth/simple-auth.amd.js",
+    "bower_components/sinon/index.js",
+    "dist/globals/ember-simple-auth-classic.js",
+    "http://localhost:4200/globals/ember-simple-auth-classic.js",
+    "test/spec-helper.js",
+    "test/**/*-spec.js"
+  ]
+}
