@@ -1,10 +1,3 @@
-# TBD
+# ember-simple-auth-classic
 
-## Configs
-
-- Store
-  - cookieName
-  - authenticator
-- Authenticator (classic)
-  - serverTokenEndpoint: (ex. /users/sign_in)
-  - resourceName (ex. user)
+**README TBD.**
